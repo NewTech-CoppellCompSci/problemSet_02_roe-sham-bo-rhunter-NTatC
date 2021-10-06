@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "Lab01 Test #1",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab01.test1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab01 Test #2",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab01.test2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab01 Test #3",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab01.test3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab01 Test #4",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab01.test4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab01 Test #5",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab01.test5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab01 Test #6",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab01.test6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab01 Test #7",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab01.test7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab01 Test #8",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab01.test8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab02 Test #1",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab02.test1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab02 Test #2",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab02.test2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab02 Test #3",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab02.test3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Lab02 Test #4",
+      "setup": "",
+      "run": "gradle test --tests Test_Lab02.test4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
