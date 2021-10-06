@@ -29,7 +29,7 @@ public class Lab01 {
 			System.out.println("Five, six, pickup sticks!");
 		}
 		else if (input < 0) {
-			System.out.println("That’s so negative of you!");
+			System.out.println("That's so negative of you!");
 		}
 		else if (input >= 13 && input <= 19) {
 			System.out.println("Oh the teenage years...");
